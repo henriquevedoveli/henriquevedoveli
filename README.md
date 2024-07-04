@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Projects
 ## Data Analysis
+### Work in Progess
  * Stock Exchanges Analysis
  * Predicting CS:GO Round Winner
 
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
         
   ## NLP
    * [Fake News Detection](https://github.com/henriquevedoveli/NLP-fake-news-detection)
+   * Study Assistant
   
 
 
