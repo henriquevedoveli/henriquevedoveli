@@ -16,11 +16,20 @@ Here are some ideas to get you started:
 # Projects
 ## Data Analysis
 ### Work in Progess
- * Stock Exchanges Analysis
- * Predicting CS:GO Round Winner
+ * [Stock Exchanges Analysis](https://github.com/henriquevedoveli/stock_exchange_analysis)
+   - API
+   - Pandas
+   - TinyDB (NoSQL)
+   - Web Scrapping
+   - TKinter (GUI)
+   - Docker
+ * [Predicting CS:GO Round Winner](https://github.com/henriquevedoveli/csgo)
 
 ## Computer Vision
   * [Face Validations](https://github.com/henriquevedoveli/face-validations)
+    - OpenCV
+    - MediaPipe
+    - Docker
   * [Gesture Tracker](https://github.com/henriquevedoveli/Gesture-Tracker)
   * [AR-PONG](https://github.com/henriquevedoveli/ARPONG)
       - **Language** Python3.8
