@@ -1,5 +1,9 @@
 # Henrique Vedoveli
 
+[https://henriquevedoveli.github.io](https://henriquevedoveli.github.io/)
+[LinkedIn](https://www.linkedin.com/in/henrique-vedoveli/)
+[Medium](https://medium.com/@henriquevedoveli)
+
 ## About Me
 
 I am Henrique Vedoveli, a Physics graduate from the State University of Maringá, currently completing my Master's in Computer Science at UFPR, with a focus on Artificial Intelligence. I have over two years of professional experience as a Machine Learning Engineer and Data Scientist.
